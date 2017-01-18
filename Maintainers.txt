@@ -11,17 +11,15 @@ Zephyr to your respective devices.
 MOTOROLA
 ========
 Moto E (condor): StarkDroid/Vatsal Koradia
-Moto X 2014 (victara): Gabriel Freire
 
 =====
 NEXUS
 =====
-Nexus 4 (mako): Nitin1438
 
 =======
 ONEPLUS
 =======
-
+OnePlus One (bacon): Kaushik V (KV)
 
 ==
 LG
